@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "786750679304",
+    "firebase_url": "https://romantic-talk-9ba91-default-rtdb.firebaseio.com",
+    "project_id": "romantic-talk-9ba91",
+    "storage_bucket": "romantic-talk-9ba91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786750679304:android:1d5570897932ab7f2364bd",
+        "android_client_info": {
+          "package_name": "com.mobeasyapp.dxnyemen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786750679304-21ihg0hqtfb0rj16qrnui8g5adtr3r2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobeasyapp.dxnyemen",
+            "certificate_hash": "56790cfbf4a4b47230005ba39417adbdeb7d7d1f"
+          }
+        },
+        {
+          "client_id": "105713487650574117455",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRl0ro_lG_HRLWnF3P8CExSh8Xkgpj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105713487650574117455",
+              "client_type": 3
+            },
+            {
+              "client_id": "786750679304-3f23d696rhq854dkmh1bvm9ja272bgp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobeasyapp.romantictalk",
+                "app_store_id": "862246661243"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786750679304:android:1604d5a6ed52f5132364bd",
+        "android_client_info": {
+          "package_name": "com.mobeasyapp.romantictalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786750679304-g149apt2kn8n59al8m61d7bd71c3krsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobeasyapp.romantictalk",
+            "certificate_hash": "3b845e26475075ace8cc49ec5378160c566f5154"
+          }
+        },
+        {
+          "client_id": "105713487650574117455",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRl0ro_lG_HRLWnF3P8CExSh8Xkgpj58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105713487650574117455",
+              "client_type": 3
+            },
+            {
+              "client_id": "786750679304-3f23d696rhq854dkmh1bvm9ja272bgp9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobeasyapp.romantictalk",
+                "app_store_id": "862246661243"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
